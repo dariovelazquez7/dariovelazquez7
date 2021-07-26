@@ -10,7 +10,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="css3" /> </a> &nbsp;
  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="react"/> </a> &nbsp;
    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" alt="typescript" w/> </a>&nbsp; 
-  
+  <span id="toggle-dark-light" href="">
+	<img src="/img_src/nav/moon.svg" alt="light-mode" height="20" width="20">
+</span>
   
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
