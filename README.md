@@ -13,10 +13,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript" alt="typescript" w/> </a>&nbsp;
  <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL" alt="postgresql"  </a> &nbsp; 
  
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
- </p> 
-
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/in/dar%c3%ado-vel%c3%a1zquez-9b9956211/" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
