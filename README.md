@@ -2,13 +2,13 @@
 <h1 align="left">Hola! Bienvenidos 👋</h1>
 <h3 align="left">🛠 &nbsp;Stack tecnológico </h3>
 <p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript"/> </a> &nbsp;
- <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL" alt="postgresql"  </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5" alt="html5"/> </a> &nbsp;
-<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-React-05122A?&style=for-the-badge&logo=React" alt="react"/> </a> &nbsp;
-<a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js" alt="nodejs" /> </a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/> </a> &nbsp;
+ <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL" alt="postgresql"  </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="html5"/> </a> &nbsp;
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-React-05122A?&style=fflat&logo=React" alt="react"/> </a> &nbsp;
+<a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="nodejs" /> </a> &nbsp;
  <br>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-05122A?&style=for-the-badge&logo=TypeScript" alt="typescript" w/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-05122A?&style=flat&logo=TypeScript" alt="typescript" w/> </a>
  <a href="https://expressjs.com/es/" target="_blank"> <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express" alt="express"  </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB" alt="mongodb" /> </a> &nbsp; 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="css3" /> </a> &nbsp;
