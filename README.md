@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/77759094/127016180-94702f4b-f0cc-4637-89eb-49d9150ba7c1.gif" alt="Dario Velazquez" title="Bienvenidos 👋"/>
+<img src="https://user-images.githubusercontent.com/77759094/127020442-cce0a39a-2fd1-48ee-8d4d-33e02e67bfe7.gif" alt="Dario Velazquez" title="Bienvenidos 👋"/>
 <h1 align="center">Hi 👋, I'm Dario Velazquez</h1>
 <h3 align="center">🛠 &nbsp;Tech Stack </h3>
 <p align="center"> 
