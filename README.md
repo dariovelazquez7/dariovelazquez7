@@ -10,6 +10,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript" alt="typescript" w/> </a>&nbsp;
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB" alt="mongodb" /> </a> &nbsp; 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL" alt="postgresql"  </a>
+<a href="https://es.redux.js.org/" target="_blank"> <img src="https://img.shields.io/badge/-redux-05122A?style=flat&logo=redux" alt="redux"  </a>
+   
    </p>
  
 <h3 align="left">📫 &nbsp; Contacto</h3>
