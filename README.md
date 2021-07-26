@@ -9,7 +9,7 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="nodejs" /> </a> &nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="css3" /> </a> &nbsp;
  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="react"/> </a> &nbsp;
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" alt="mongodb" /> </a> &nbsp; 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB" alt="mongodb" /> </a> &nbsp; 
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" alt="typescript" w/> </a>&nbsp; 
  
   
