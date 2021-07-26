@@ -13,12 +13,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript" alt="typescript" w/> </a>&nbsp;
  <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL" alt="postgresql"  </a> &nbsp; 
  
-  
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  
-
-  
-  
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  
+<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
  </p> 
 
 <h3 align="center">Connect with me</h3>
