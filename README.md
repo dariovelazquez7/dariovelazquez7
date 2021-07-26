@@ -7,7 +7,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/> </a> &nbsp;
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="html5"/> </a> &nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="css3" /> </a> &nbsp;
- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="react" width="40" height="40"/> </a> 
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="react"/> </a> 
   
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 
