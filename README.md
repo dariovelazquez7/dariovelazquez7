@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/77759094/127020442-cce0a39a-2fd1-48ee-8d4d-33e02e67bfe7.gif" alt="Dario Velazquez" title="Bienvenidos 👋"/>
-<h1 align="center">Hi 👋, I'm Dario Velazquez</h1>
-<h3 align="center">🛠 &nbsp;Tech Stack </h3>
+<h1 align="center">Hola! Bienvenidos 👋</h1>
+<h3 align="center">🛠 &nbsp;Stack tecnológico </h3>
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/> </a> &nbsp;
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="html5"/> </a> &nbsp;
@@ -12,7 +12,7 @@
  <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL" alt="postgresql"  </a>
    </p>
  
-<h3 align="center">🤝🏻 Connect with me</h3>
+<h3 align="center">🤝🏻 Contacto</h3>
 <p align="center">
 <a href="https://linkedin.com/in/in/dar%c3%ado-vel%c3%a1zquez-9b9956211/" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:dario.velazquez10@gmail.com" target="blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
