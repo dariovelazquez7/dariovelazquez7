@@ -12,6 +12,7 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB" alt="mongodb" /> </a> &nbsp; 
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript" alt="typescript" w/> </a>&nbsp;
  <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL" alt="postgresql"  </a>
+   </p>
  
 <h3 align="center">Connect with me</h3>
 <p align="center">
