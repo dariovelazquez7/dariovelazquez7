@@ -11,6 +11,9 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB" alt="mongodb" /> </a> &nbsp; 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL" alt="postgresql"  </a>
 <a href="https://es.redux.js.org/" target="_blank"> <img src="https://img.shields.io/badge/-redux-05122A?style=flat&logo=redux" alt="redux"  </a>
+ <a href="https://expressjs.com/es/" target="_blank"> <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express" alt="express"  </a>
+   
+   
    
    </p>
  
