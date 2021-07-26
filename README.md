@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/77759094/126938534-bfcd35cd-bb03-428a-812c-ab2ece2e8bcf.gif" alt="Hi 👋, I'm Dario Velazquez" title="Hi 👋, I'm Dario Velazquez"/>
 <br /> <br/>
 
-<h3 align="center">Languages</h3>
+### 🛠 &nbsp;Tech Stack
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/> </a> &nbsp;
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="html5"/> </a> &nbsp;
