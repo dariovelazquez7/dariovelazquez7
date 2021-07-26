@@ -19,5 +19,5 @@
 <a href="mailto:dario.velazquez10@gmail.com" target="blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 </p>
 <br /> <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dariovelazquez7&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dariovelazquez7" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dariovelazquez7&show_icons=true&locale=en" alt="dariovelazquez7" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dariovelazquez7&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dariovelazquez7" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dariovelazquez7&show_icons=true&locale=en&theme=algolia" alt="dariovelazquez7" /></p>
