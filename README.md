@@ -15,6 +15,8 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB" alt="mongodb" /> </a> &nbsp; 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="css3" /> </a> &nbsp;
 <a href="https://es.redux.js.org/" target="_blank"> <img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux" alt="redux"  </a>
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="git"  </a>
+ 
  </p>
  
 <h3 align="left">📫 &nbsp; Contacto</h3>
