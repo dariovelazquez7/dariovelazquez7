@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/77759094/127053790-e0fc6562-888b-4e78-8799-147e0d7bf781.gif" alt="Dario Velazquez" title="Bienvenidos 👋"/>
 
 
-<h3 align="left"> Voluntad y aprendizaje constante en este camino del desarrollo web 🖥️</h3> 
+
 
 <h3 align="left">🛠 &nbsp;Stack tecnológico </h3>
 <p align="left"> 
