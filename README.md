@@ -1,5 +1,8 @@
 <img src="https://user-images.githubusercontent.com/77759094/127053790-e0fc6562-888b-4e78-8799-147e0d7bf781.gif" alt="Dario Velazquez" title="Bienvenidos 👋"/>
 <h1 align="left">Hola! Bienvenidos 👋</h1>
+
+<h3 align="left"> about me </h3> 
+
 <h3 align="left">🛠 &nbsp;Stack tecnológico </h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/> </a> &nbsp;
