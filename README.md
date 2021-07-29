@@ -1,6 +1,6 @@
 <h1 align="left">Hola! Bienvenidos 👋</h1>
 <img src="https://user-images.githubusercontent.com/77759094/127053790-e0fc6562-888b-4e78-8799-147e0d7bf781.gif" alt="Dario Velazquez" title="Bienvenidos 👋"/>
-<h4> Soy de buenos aires, Argentina. Estudié en <a href="https://soyhenry.com/"> </a>
+<h4> Soy de buenos aires, Argentina. Estudié en <a href="https://soyhenry.com/">Henry</a>
 </h4>
 
 
