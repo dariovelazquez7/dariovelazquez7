@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/77759094/127053790-e0fc6562-888b-4e78-8799-147e0d7bf781.gif" alt="Dario Velazquez" title="Bienvenidos 👋"/>
 <h1 align="left">Hola! Bienvenidos 👋</h1>
 
-<h3 align="left"> about me </h3> 
+<h2 align="left"> sobre mi </h2> 
 
 <h3 align="left">🛠 &nbsp;Stack tecnológico </h3>
 <p align="left"> 
