@@ -25,7 +25,7 @@
  
 <h3 align="left">📫 &nbsp; Contacto</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/dar%c3%ado-vel%c3%a1zquez-9b9956211/" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/velazquez-dario/" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:dario.velazquez10@gmail.com" target="blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 </p>
 <br /> <br/>
