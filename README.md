@@ -34,4 +34,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dariovelazquez7&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dariovelazquez7" />
 </p>
  
- 
+ ## :pushpin: My proyects
+<p>
+ <img src="https://user-images.githubusercontent.com/77759094/127793122-a9b7535c-cabe-4f33-a81f-f9f6164b0a6b.png" alt="Landing" />
+ <img src="https://user-images.githubusercontent.com/77759094/127793153-31543d9d-38c0-4ee5-94a1-152d061a6eb3.png" alt="Home" />
+ <img src="https://user-images.githubusercontent.com/77759094/127793256-590c476c-5c89-480c-b89e-01c20729180c.png" alt="Form" />
+ </p>
