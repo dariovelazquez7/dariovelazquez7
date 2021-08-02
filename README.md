@@ -37,6 +37,6 @@
  ## :pushpin: My proyects
 <p>
  <img src="https://user-images.githubusercontent.com/77759094/127793122-a9b7535c-cabe-4f33-a81f-f9f6164b0a6b.png" alt="Landing" heigth="35%px" width="33%"/>
- <img src="https://user-images.githubusercontent.com/77759094/127793153-31543d9d-38c0-4ee5-94a1-152d061a6eb3.png" alt="Home" />
- <img src="https://user-images.githubusercontent.com/77759094/127793256-590c476c-5c89-480c-b89e-01c20729180c.png" alt="Form" />
+ <img src="https://user-images.githubusercontent.com/77759094/127793153-31543d9d-38c0-4ee5-94a1-152d061a6eb3.png" alt="Home" heigth="35%px" width="33%"/>
+ <img src="https://user-images.githubusercontent.com/77759094/127793256-590c476c-5c89-480c-b89e-01c20729180c.png" alt="Form" heigth="35%px" width="33%"/>
  </p>
