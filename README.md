@@ -33,3 +33,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dariovelazquez7&show_icons=true&locale=en&theme=algolia" alt="dariovelazquez7" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dariovelazquez7&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dariovelazquez7" />
 </p>
+ 
+ ## :pushpin: My proyects
