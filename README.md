@@ -35,13 +35,13 @@
 </p>
  
  ## :pushpin: My proyects
- <h3 align="left">&nbsp;PokeApp </h3>
+ <h3 align="left">&nbsp;📂 PokeApp </h3>
 <p>
  <img src="https://user-images.githubusercontent.com/77759094/127793122-a9b7535c-cabe-4f33-a81f-f9f6164b0a6b.png" alt="Landing" heigth="35%px" width="32%"/>
  <img src="https://user-images.githubusercontent.com/77759094/127793153-31543d9d-38c0-4ee5-94a1-152d061a6eb3.png" alt="Home" heigth="35%px" width="32%"/>
  <img src="https://user-images.githubusercontent.com/77759094/127793256-590c476c-5c89-480c-b89e-01c20729180c.png" alt="Form" heigth="35%px" width="32%"/>
  </p>
-<h3 align="left">&nbsp;Trekker </h3>
+<h3 align="left">&nbsp; 📂 Trekker </h3>
  <p>
   <img src="https://user-images.githubusercontent.com/77759094/127794684-316ea37e-ddd3-4d40-b579-32ea0aa66731.png" alt="HomeTrekker" heigth="35%px" width="32%"/>
   <img src="https://user-images.githubusercontent.com/77759094/127794701-0574da29-4c59-4376-9d32-e1f9f4c26846.png" alt="register" heigth="35%px" width="32%"/>
