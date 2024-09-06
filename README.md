@@ -1,6 +1,6 @@
 <h1 align="left">Hola! Bienvenidos 👋</h1>
 <img src="https://user-images.githubusercontent.com/77759094/127053790-e0fc6562-888b-4e78-8799-147e0d7bf781.gif" alt="Dario Velazquez" title="Bienvenidos 👋"/>
-<h4> Me llamo Darío Velázquez, soy Full stack developer y vivo en Buenos Aires, Argentina. Comencé hace relativamente poco a interesarme en el desarrollo web👨‍💻 y fue gracias a 🚀<a href="https://soyhenry.com/">Henry</a>🚀 donde aprendí todo lo que sé, hasta el momento...
+<h4> Me llamo Darío Velázquez, soy Full stack developer y vivo en Buenos Aires, Argentina.
 </h4>
 
 
